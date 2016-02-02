@@ -1,0 +1,1 @@
+create table it_sms(id int(11) not null primary key auto_increment,mobile char(20) not null,yzm char(20) not null,create_time char(20) not null);
