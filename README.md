@@ -11,5 +11,8 @@ example/index.html
 
 #upload图片上传到此
 
+#demo/Angular.js
+
+
 
 
